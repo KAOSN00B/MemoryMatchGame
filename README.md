@@ -10,6 +10,9 @@ A simple Android memory matching game built with Kotlin.
 - If they don't match, both cards flip back face down after a short delay
 - Match all pairs to win
 
+- <img width="704" height="1486" alt="Recording 2026-06-05 161548" src="https://github.com/user-attachments/assets/94d2ab4a-4918-4aa4-9191-a9e7d624c71f" />
+
+
 ## Features
 
 - 4x4 grid of shuffled card pairs
